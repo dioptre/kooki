@@ -1,0 +1,3279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="en_US.UTF-8" version="6.7.0" title="Shotcut version 18.03.06" producer="main bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">nbs.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">da1a034833870225c4505f49da02946a</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">sicko.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">9bfe8cf1f3cd346468f0585476c59c9e</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="00:01:12.440">
+    <property name="length">00:01:12.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/VID_20180327_074539.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">dd7a0b14d6ebed11ea225a199c1e45d6</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="00:00:22.800">
+    <property name="length">00:00:22.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/VID_20180327_073644.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0f3fc28f2224066af16de51ac0029317</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.160">
+    <property name="length">00:00:04.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/VID_20180327_073807.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">406c6bc333041f99165a7933011f35bb</property>
+  </producer>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.520">
+    <property name="length">00:00:07.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/VID_20180327_075008.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">27e0013bac203f4d745a306986e18510</property>
+  </producer>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">australia.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">5718f3b8bc8a560ab10b7b9202149fd6</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">me.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">dc4a8f635ab21ccd01a337205bffc1b2</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">sf.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">89720f38510853d2cd33af196f6bd4db</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">downunder.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">7182e76567c736d28bd795eda101c178</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00.000" out="00:02:28.240">
+    <property name="length">00:02:28.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">Clip 5</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">91d2a65736e775d4f2ba2e0cfb5c93e5</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00.000" out="00:02:05.560">
+    <property name="length">00:02:05.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">A Kookaburra kills a black snake in our backyard.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a0873a5d425f2038213156655d5e8f13</property>
+  </producer>
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">amazon.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6797c0b71bd7b3a15bcc20bb720f2e16</property>
+  </producer>
+  <producer id="producer14" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">apple.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">455aebb0e075a461c3f640a670c89262</property>
+  </producer>
+  <producer id="producer15" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+  </producer>
+  <producer id="producer16" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">confused.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">f59eea0845b22549b52c103fbf9b44fc</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer17" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">schematic.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">79dd52489f0d01a72052a57af3476360</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer18" title="Anonymous Submission" in="00:00:00.000" out="00:01:08.760">
+    <property name="length">00:01:08.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">Bed Spring Sound Effect.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a6ef83f4c8f6c44309b5a2795fe34ea1</property>
+  </producer>
+  <producer id="producer19" title="Anonymous Submission" in="00:00:00.000" out="23860:55:45.840">
+    <property name="length">23860:55:45.880</property>
+    <property name="eof">loop</property>
+    <property name="resource">bellybutton.gif</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c4713ef458dc3ec0bfbcad71f57a79ee</property>
+  </producer>
+  <producer id="producer20" title="Anonymous Submission" in="00:00:00.000" out="00:00:02.680">
+    <property name="length">00:00:02.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">bellybutton.mov</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c8cb265afd0f6c883a8c08bd207f06ba</property>
+  </producer>
+  <producer id="producer21" title="Anonymous Submission" in="00:00:00.000" out="00:00:02.680">
+    <property name="length">00:00:02.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">bellybutton.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">23e4b4d45c9d962f0a502af7f2e823ba</property>
+  </producer>
+  <producer id="producer22" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bushman_swagman_statue-1069065.jpg!d.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7a65881867940869467fc146f3915c1f</property>
+  </producer>
+  <producer id="producer23" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Cambridge-Analytica.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">e200de83d76b28e02aca0b7ddefeee10</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer24" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">cambeidge-analytics.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f673ae592140f9ca24e075da8e4ad80e</property>
+  </producer>
+  <producer id="producer25" title="Anonymous Submission" in="00:00:00.000" out="23860:55:45.840">
+    <property name="length">23860:55:45.880</property>
+    <property name="eof">loop</property>
+    <property name="resource">car-mattress.gif</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">754b36d2ac7e8a09d3960ede195c3339</property>
+  </producer>
+  <producer id="producer26" title="Anonymous Submission" in="00:00:00.000" out="00:01:53.600">
+    <property name="length">00:01:53.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/kook.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">ca21853b84ec75b0a8041ea7d6491897</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer27" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">china.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c72a0bfbcf39a8c12e9608ee994a3128</property>
+  </producer>
+  <producer id="producer28" title="Anonymous Submission" in="00:00:00.000" out="23860:55:45.840">
+    <property name="length">23860:55:45.880</property>
+    <property name="eof">loop</property>
+    <property name="resource">clown-car.gif</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d40cd29a043609bf2aeccc2082e871ed</property>
+  </producer>
+  <producer id="producer29" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.760">
+    <property name="length">00:00:01.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">clown-car.mov</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4dafcb319a677cdedc04badda5e22da0</property>
+  </producer>
+  <producer id="producer30" title="Anonymous Submission" in="00:00:00.000" out="00:05:57.720">
+    <property name="length">00:05:57.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">Didgeridoo Tongue Rhythms Tutorial.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">067c76b81b667046406854d1686be1a8</property>
+  </producer>
+  <producer id="producer31" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hacker.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">fddcb6f4ae354d5bef01b8ad6d3484b8</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer32" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">fb.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7777e49021b594d1fbddd24105e81f07</property>
+  </producer>
+  <producer id="producer33" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">fb-magnifyglass.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">338f3edb4f306a728faf1d55ff65128e</property>
+  </producer>
+  <producer id="producer34" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">gmail.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2ede7c9ed846611b2a88c67cd723d619</property>
+  </producer>
+  <producer id="producer35" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">gold-teeth.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a6160e44c83b158c950969a778005197</property>
+  </producer>
+  <producer id="producer36" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">google.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b88926c99d1a00951bb964836585a08c</property>
+  </producer>
+  <producer id="producer37" title="Anonymous Submission" in="00:00:00.000" out="23860:55:45.840">
+    <property name="length">23860:55:45.880</property>
+    <property name="eof">loop</property>
+    <property name="resource">hand.gif</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d22129f9a20464c303ee07e22bed19e6</property>
+  </producer>
+  <producer id="producer38" title="Anonymous Submission" in="00:00:00.000" out="00:00:02.160">
+    <property name="length">00:00:02.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">hand.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">72f04efba0d307ba0d94a804a17e41b7</property>
+  </producer>
+  <producer id="producer39" title="Anonymous Submission" in="00:00:00.000" out="23860:55:45.840">
+    <property name="length">23860:55:45.880</property>
+    <property name="eof">loop</property>
+    <property name="resource">kangaroo2.gif</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">01a89ebe765dd10e9061ee8b596a4ac1</property>
+  </producer>
+  <producer id="producer40" title="Anonymous Submission" in="00:00:00.000" out="00:00:00.440">
+    <property name="length">00:00:00.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">kangaroo2.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d65f098520bc9ae1484ba257b890c821</property>
+  </producer>
+  <producer id="producer41" title="Anonymous Submission" in="00:00:00.000" out="23860:55:45.840">
+    <property name="length">23860:55:45.880</property>
+    <property name="eof">loop</property>
+    <property name="resource">kangaroos.gif</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c2573adc8459f84dbe841c0caf151f8f</property>
+  </producer>
+  <producer id="producer42" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.760">
+    <property name="length">00:00:04.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">kangaroos.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7d1836b91059bf639f6e7e41e28930c2</property>
+  </producer>
+  <producer id="producer43" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">deadly.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">4154cb8562ce35b04476fa949ee9a5c7</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer44" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">kid.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">acc713fa079c5c47b8a9b89d182c9bca</property>
+  </producer>
+  <producer id="producer45" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/sadface.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b1017ad21d3eda2fb4652b21381688cc</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer46" title="Anonymous Submission" in="00:00:00.000" out="23860:55:45.840">
+    <property name="length">23860:55:45.880</property>
+    <property name="eof">loop</property>
+    <property name="resource">koala.gif</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f589c37b0071ff573b936042eb4d8c15</property>
+  </producer>
+  <producer id="producer47" title="Anonymous Submission" in="00:00:00.000" out="00:00:02.240">
+    <property name="length">00:00:02.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">koala.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">949d822e03faaaf89c24630b172f4ed8</property>
+  </producer>
+  <producer id="producer48" title="Anonymous Submission" in="00:00:00.000" out="00:00:56.120">
+    <property name="length">00:00:56.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">KOOKABURRA and Tiger Snake 2015 11 08.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d8c5f88ca3c820949365979776e6a2e1</property>
+  </producer>
+  <producer id="producer49" title="Anonymous Submission" in="00:00:00.000" out="00:02:12.960">
+    <property name="length">00:02:13.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra Bird Eats Python Snake.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d39df61ef64425d292aee05368d9b9ed</property>
+  </producer>
+  <producer id="producer50" title="Anonymous Submission" in="00:00:00.000" out="00:01:52.520">
+    <property name="length">00:01:52.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra call (Two Laughing Kookaburra Laughing) SO LOUD!.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9caf1ac4abb0940024988069b2ed4c78</property>
+  </producer>
+  <producer id="producer51" title="Anonymous Submission" in="00:00:00.000" out="00:04:17.640">
+    <property name="length">00:04:17.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra feeds the babies.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ed321dbcc9b3051664e703c0a1d3d9</property>
+  </producer>
+  <producer id="producer52" title="Anonymous Submission" in="00:00:00.000" out="00:01:01.080">
+    <property name="length">00:01:01.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra having a little laugh.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">209719bfc21482a01783c8848321b1b8</property>
+  </producer>
+  <producer id="producer53" title="Anonymous Submission" in="00:00:00.000" out="00:01:06.920">
+    <property name="length">00:01:06.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra vs tiger snake.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3be2e5ca23a82cf9c5b2270289fafbd5</property>
+  </producer>
+  <producer id="producer54" title="Anonymous Submission" in="00:00:00.000" out="00:00:00.840">
+    <property name="length">00:00:00.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">mattress.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">742ab58b72cc34fced1f0571a6e5ac08</property>
+  </producer>
+  <producer id="producer55" title="Anonymous Submission" in="00:00:00.000" out="00:01:52.520">
+    <property name="length">00:01:52.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">output.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c3bf5b85e41d872c3365a003161e40dc</property>
+  </producer>
+  <producer id="producer56" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">putin.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">60dbd87d5327a99723435256371ecfff</property>
+  </producer>
+  <producer id="producer57" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.400">
+    <property name="length">00:00:07.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">RAINBOW ANIMATION STOCK.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">04c4c4436198ffdac009970e5d5f3929</property>
+  </producer>
+  <producer id="producer58" title="Anonymous Submission" in="00:00:00.000" out="23860:55:45.840">
+    <property name="length">23860:55:45.880</property>
+    <property name="eof">loop</property>
+    <property name="resource">Rotating_earth_(large).gif</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">881d199a54cb7e3ffa87a9cd26ce2a1f</property>
+  </producer>
+  <producer id="producer59" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.920">
+    <property name="length">00:00:03.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Rotating_earth_(large).mov</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6edd37f0630b720f6e4e5b0b8b658d20</property>
+  </producer>
+  <producer id="producer60" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.920">
+    <property name="length">00:00:03.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Rotating_earth_(large).mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9093e408fa43df35cd609bd5fe21c705</property>
+  </producer>
+  <producer id="producer62" title="Anonymous Submission" in="00:00:00.000" out="00:00:53.080">
+    <property name="length">00:00:53.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">screte sex. crab.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0e25b0832739bbe59b3a8e530c4b5872</property>
+  </producer>
+  <producer id="producer63" title="Anonymous Submission" in="00:00:00.000" out="23860:55:45.840">
+    <property name="length">23860:55:45.880</property>
+    <property name="eof">loop</property>
+    <property name="resource">sexy.gif</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0cab8702f158f9e9827ba24a0efdcfaf</property>
+  </producer>
+  <producer id="producer64" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.640">
+    <property name="length">00:00:01.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">sexy.mov</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d8c609e8d757fa84d2b0c4386b9c40e5</property>
+  </producer>
+  <producer id="producer65" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.640">
+    <property name="length">00:00:01.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">sexy.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">46cc1771407f9a2f580c341672167c0b</property>
+  </producer>
+  <producer id="producer66" title="Anonymous Submission" in="00:00:00.000" out="00:01:32.200">
+    <property name="length">00:01:32.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">Snake Gets Eaten by Kookaburra in Backyard Feed.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0d75b1ce0574d394a43df6c754210b57</property>
+  </producer>
+  <producer id="producer67" title="Anonymous Submission" in="00:00:00.000" out="00:00:18.600">
+    <property name="length">00:00:18.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">Squeaky Mattress Sound Effect.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">1f8bf2d4bef4201f8642ed1599dd96a1</property>
+  </producer>
+  <producer id="producer68" title="Anonymous Submission" in="00:00:00.000" out="00:02:12.280">
+    <property name="length">00:02:12.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">Star Spangled Banner on Electric Guitar.- free mp3.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">52d8e2062a0a78c3fea69d30647020db</property>
+  </producer>
+  <producer id="producer69" title="Anonymous Submission" in="00:00:00.000" out="00:02:01.480">
+    <property name="length">00:02:01.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">Stock Footage - Slapped! - Famous Vintage Movie Slaps!.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0b2f731726e67a5445c88fb810c33653</property>
+  </producer>
+  <producer id="producer70" title="Anonymous Submission" in="00:00:00.000" out="00:00:49.120">
+    <property name="length">00:00:49.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">Tell 'im 'e's dreamin'.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">41527acba36c95d064261f9182f698a1</property>
+  </producer>
+  <producer id="producer71" title="Anonymous Submission" in="00:00:00.000" out="00:01:23.000">
+    <property name="length">00:01:23.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">The snake and the kookaburra(s).mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4e2540a5cb2625176def7f2539dbd240</property>
+  </producer>
+  <producer id="producer72" title="Anonymous Submission" in="00:00:00.000" out="00:01:22.960">
+    <property name="length">00:01:23.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">The snake and the kookaburra(s)(1).mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9d268b648f7e5d0aa380cce943d0845c</property>
+  </producer>
+  <playlist id="main bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:02:00.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:01:12.440"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:22.800"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:04.160"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:07.520"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:02:28.240"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:02:05.560"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:01:45.120"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:01:08.760"/>
+    <entry producer="producer19" in="00:00:00.000" out="23860:55:45.840"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:02.680"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:02.680"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer25" in="00:00:00.000" out="23860:55:45.840"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:01:53.600"/>
+    <entry producer="producer27" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer28" in="00:00:00.000" out="23860:55:45.840"/>
+    <entry producer="producer29" in="00:00:00.000" out="00:00:01.760"/>
+    <entry producer="producer30" in="00:00:00.000" out="00:05:57.720"/>
+    <entry producer="producer31" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer32" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer33" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer34" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer35" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer36" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer37" in="00:00:00.000" out="23860:55:45.840"/>
+    <entry producer="producer38" in="00:00:00.000" out="00:00:02.160"/>
+    <entry producer="producer39" in="00:00:00.000" out="23860:55:45.840"/>
+    <entry producer="producer40" in="00:00:00.000" out="00:00:00.440"/>
+    <entry producer="producer41" in="00:00:00.000" out="23860:55:45.840"/>
+    <entry producer="producer42" in="00:00:00.000" out="00:00:04.760"/>
+    <entry producer="producer43" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer44" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer45" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer46" in="00:00:00.000" out="23860:55:45.840"/>
+    <entry producer="producer47" in="00:00:00.000" out="00:00:02.240"/>
+    <entry producer="producer48" in="00:00:00.000" out="00:00:56.120"/>
+    <entry producer="producer49" in="00:00:00.000" out="00:02:12.960"/>
+    <entry producer="producer50" in="00:00:00.000" out="00:01:52.520"/>
+    <entry producer="producer51" in="00:00:00.000" out="00:04:17.640"/>
+    <entry producer="producer52" in="00:00:00.000" out="00:01:01.080"/>
+    <entry producer="producer53" in="00:00:00.000" out="00:01:06.920"/>
+    <entry producer="producer54" in="00:00:00.000" out="00:00:00.840"/>
+    <entry producer="producer55" in="00:00:00.000" out="00:01:52.520"/>
+    <entry producer="producer56" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer57" in="00:00:00.000" out="00:00:07.400"/>
+    <entry producer="producer58" in="00:00:00.000" out="23860:55:45.840"/>
+    <entry producer="producer59" in="00:00:00.000" out="00:00:03.920"/>
+    <entry producer="producer60" in="00:00:00.000" out="00:00:03.920"/>
+    <entry producer="producer62" in="00:00:00.000" out="00:00:53.080"/>
+    <entry producer="producer63" in="00:00:00.000" out="23860:55:45.840"/>
+    <entry producer="producer64" in="00:00:00.000" out="00:00:01.640"/>
+    <entry producer="producer65" in="00:00:00.000" out="00:00:01.640"/>
+    <entry producer="producer66" in="00:00:00.000" out="00:01:32.200"/>
+    <entry producer="producer67" in="00:00:00.000" out="00:00:18.600"/>
+    <entry producer="producer68" in="00:00:00.000" out="00:02:12.280"/>
+    <entry producer="producer69" in="00:00:00.000" out="00:02:01.480"/>
+    <entry producer="producer70" in="00:00:00.000" out="00:00:49.120"/>
+    <entry producer="producer71" in="00:00:00.000" out="00:01:23.000"/>
+    <entry producer="producer72" in="00:00:00.000" out="00:01:22.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:02:03.120">
+    <property name="length">00:02:03.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:02:03.120"/>
+  </playlist>
+  <producer id="producer73" title="Anonymous Submission" in="00:00:00.000" out="00:01:52.520">
+    <property name="length">00:01:52.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra call (Two Laughing Kookaburra Laughing) SO LOUD!.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9caf1ac4abb0940024988069b2ed4c78</property>
+    <property name="shotcut:caption">Kookaburra call (Two Laughing Kookaburra Laughing) SO LOUD!.mp4</property>
+    <property name="shotcut:detail">Kookaburra call (Two Laughing Kookaburra Laughing) SO LOUD!.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter0">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+    <filter id="filter1" in="00:01:01.200" out="00:01:02.160">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="gain">1</property>
+      <property name="end">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <blank length="00:01:55.400"/>
+    <entry producer="producer73" in="00:00:57.920" out="00:01:02.160"/>
+  </playlist>
+  <producer id="producer74" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.400">
+    <property name="length">00:00:07.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">RAINBOW ANIMATION STOCK.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">04c4c4436198ffdac009970e5d5f3929</property>
+    <property name="shotcut:caption">RAINBOW ANIMATION STOCK.mp4</property>
+    <property name="shotcut:detail">RAINBOW ANIMATION STOCK.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter2">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">2.6455</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">2.6455</property>
+    </filter>
+  </producer>
+  <producer id="producer75" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter3">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">7.5188</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">7.5188</property>
+    </filter>
+    <filter id="filter4" in="00:01:35.000" out="00:01:35.960">
+      <property name="start">1</property>
+      <property name="level">0=1; 24=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+    </filter>
+    <filter id="filter5">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.00316228</property>
+    </filter>
+  </producer>
+  <producer id="producer76" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">me.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">dc4a8f635ab21ccd01a337205bffc1b2</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter6">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">5</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">5</property>
+    </filter>
+    <filter id="filter7" out="00:00:00.960">
+      <property name="start">1</property>
+      <property name="level">0=0; 24=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+    </filter>
+  </producer>
+  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:00.840">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer75" in="00:01:35.120" out="00:01:35.960"/>
+    <track producer="producer76" in="00:00:00.000" out="00:00:00.840"/>
+    <transition id="transition0" out="00:00:00.840">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.840">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer77" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.160">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">sf.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">89720f38510853d2cd33af196f6bd4db</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter8">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">5</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">5</property>
+    </filter>
+  </producer>
+  <producer id="producer78" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.920">
+    <property name="length">00:00:03.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Rotating_earth_(large).mov</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6edd37f0630b720f6e4e5b0b8b658d20</property>
+    <property name="shotcut:caption">Rotating_earth_(large).mov</property>
+    <property name="shotcut:detail">Rotating_earth_(large).mov</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter9">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">5</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">5</property>
+    </filter>
+  </producer>
+  <producer id="producer79" title="Anonymous Submission" in="00:00:00.000" out="00:00:00.880">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">australia.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">5718f3b8bc8a560ab10b7b9202149fd6</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter10">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">5</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">5</property>
+    </filter>
+  </producer>
+  <producer id="producer80" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.920">
+    <property name="length">00:00:03.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Rotating_earth_(large).mov</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6edd37f0630b720f6e4e5b0b8b658d20</property>
+    <property name="shotcut:caption">Rotating_earth_(large).mov</property>
+    <property name="shotcut:detail">Rotating_earth_(large).mov</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter11">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">5</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">5</property>
+    </filter>
+  </producer>
+  <producer id="producer81" title="Anonymous Submission" in="00:00:00.000" out="00:00:00.920">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">downunder.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">7182e76567c736d28bd795eda101c178</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter12">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">5</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">5</property>
+    </filter>
+  </producer>
+  <producer id="producer82" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.800">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">deadly.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">4154cb8562ce35b04476fa949ee9a5c7</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter13">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer83" title="Anonymous Submission" in="00:00:00.000" out="00:00:02.240">
+    <property name="length">00:00:02.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">koala.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">949d822e03faaaf89c24630b172f4ed8</property>
+    <property name="shotcut:caption">koala.mp4</property>
+    <property name="shotcut:detail">koala.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter14">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer84" title="Anonymous Submission" in="00:00:00.000" out="00:00:00.440">
+    <property name="length">00:00:00.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">kangaroo2.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d65f098520bc9ae1484ba257b890c821</property>
+    <property name="shotcut:caption">kangaroo2.mp4</property>
+    <property name="shotcut:detail">kangaroo2.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter15">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">5</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">5</property>
+    </filter>
+  </producer>
+  <producer id="producer85" title="Anonymous Submission" in="00:00:00.000" out="00:00:00.440">
+    <property name="length">00:00:00.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">kangaroo2.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d65f098520bc9ae1484ba257b890c821</property>
+    <property name="shotcut:caption">kangaroo2.mp4</property>
+    <property name="shotcut:detail">kangaroo2.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter16">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">5</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">5</property>
+    </filter>
+  </producer>
+  <producer id="producer86" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.760">
+    <property name="length">00:00:04.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">kangaroos.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7d1836b91059bf639f6e7e41e28930c2</property>
+    <property name="shotcut:caption">kangaroos.mp4</property>
+    <property name="shotcut:detail">kangaroos.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter17">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer87" title="Anonymous Submission" in="00:00:00.000" out="00:02:12.960">
+    <property name="length">00:02:13.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra Bird Eats Python Snake.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d39df61ef64425d292aee05368d9b9ed</property>
+    <property name="shotcut:caption">Kookaburra Bird Eats Python Snake.mp4</property>
+    <property name="shotcut:detail">Kookaburra Bird Eats Python Snake.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter18">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer88" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.080">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">fb-magnifyglass.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">338f3edb4f306a728faf1d55ff65128e</property>
+  </producer>
+  <producer id="producer89" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.120">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/sadface.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b1017ad21d3eda2fb4652b21381688cc</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter19">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer90" title="Anonymous Submission" in="00:00:00.160" out="00:00:02.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">putin.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">60dbd87d5327a99723435256371ecfff</property>
+    <filter id="filter20">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">3.15457</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">3.15457</property>
+    </filter>
+  </producer>
+  <producer id="producer91" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.760">
+    <property name="length">00:00:01.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">clown-car.mov</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4dafcb319a677cdedc04badda5e22da0</property>
+    <property name="shotcut:caption">clown-car.mov</property>
+    <property name="shotcut:detail">clown-car.mov</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter21">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer100" title="Anonymous Submission" in="00:00:00.000" out="00:04:17.640">
+    <property name="length">00:04:17.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra feeds the babies.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ed321dbcc9b3051664e703c0a1d3d9</property>
+    <property name="shotcut:caption">Kookaburra feeds the babies.mp4</property>
+    <property name="shotcut:detail">Kookaburra feeds the babies.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter29">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <tractor id="tractor1" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:00.040">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer91" in="00:00:01.720" out="00:00:01.760"/>
+    <track producer="producer100" in="00:00:36.520" out="00:00:36.560"/>
+    <transition id="transition2" out="00:00:00.040">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.040">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer92" title="Anonymous Submission" in="00:00:00.000" out="00:01:06.920">
+    <property name="length">00:01:06.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra vs tiger snake.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3be2e5ca23a82cf9c5b2270289fafbd5</property>
+    <property name="shotcut:caption">Kookaburra vs tiger snake.mp4</property>
+    <property name="shotcut:detail">Kookaburra vs tiger snake.mp4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer93" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.520">
+    <property name="length">00:00:07.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/VID_20180327_075008.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">27e0013bac203f4d745a306986e18510</property>
+    <property name="shotcut:caption">VID_20180327_075008.mp4</property>
+    <property name="shotcut:detail">/home/a/Downloads/VID_20180327_075008.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter22">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer94" title="Anonymous Submission" in="00:00:00.000" out="00:00:22.800">
+    <property name="length">00:00:22.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/VID_20180327_073644.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0f3fc28f2224066af16de51ac0029317</property>
+    <property name="shotcut:caption">VID_20180327_073644.mp4</property>
+    <property name="shotcut:detail">/home/a/Downloads/VID_20180327_073644.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter23">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer95" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">sicko.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">9bfe8cf1f3cd346468f0585476c59c9e</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter24">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer122" title="Anonymous Submission" in="00:00:00.000" out="00:00:02.680">
+    <property name="length">00:00:02.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">bellybutton.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">23e4b4d45c9d962f0a502af7f2e823ba</property>
+    <property name="shotcut:caption">bellybutton.mp4</property>
+    <property name="shotcut:detail">bellybutton.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter44">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer96" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.640">
+    <property name="length">00:00:01.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">sexy.mov</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d8c609e8d757fa84d2b0c4386b9c40e5</property>
+    <property name="shotcut:caption">sexy.mov</property>
+    <property name="shotcut:detail">sexy.mov</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter25">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer97" title="Anonymous Submission" in="00:00:00.000" out="00:02:01.480">
+    <property name="length">00:02:01.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">Stock Footage - Slapped! - Famous Vintage Movie Slaps!.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0b2f731726e67a5445c88fb810c33653</property>
+    <property name="shotcut:caption">Stock Footage - Slapped! - Famous Vintage Movie Slaps!.mp4</property>
+    <property name="shotcut:detail">Stock Footage - Slapped! - Famous Vintage Movie Slaps!.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter26">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer98" title="Anonymous Submission" in="00:00:00.000" out="00:00:00.840">
+    <property name="length">00:00:00.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">mattress.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">742ab58b72cc34fced1f0571a6e5ac08</property>
+    <property name="shotcut:caption">mattress.mp4</property>
+    <property name="shotcut:detail">mattress.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter27">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer99" title="Anonymous Submission" in="00:00:00.000" out="00:00:00.840">
+    <property name="length">00:00:00.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">mattress.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">742ab58b72cc34fced1f0571a6e5ac08</property>
+    <property name="shotcut:caption">mattress.mp4</property>
+    <property name="shotcut:detail">mattress.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter28">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer101" title="Anonymous Submission" in="00:00:00.000" out="00:00:00.840">
+    <property name="length">00:00:00.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">mattress.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">742ab58b72cc34fced1f0571a6e5ac08</property>
+    <property name="shotcut:caption">mattress.mp4</property>
+    <property name="shotcut:detail">mattress.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter30">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer102" title="Anonymous Submission" in="00:00:02.520" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">confused.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">f59eea0845b22549b52c103fbf9b44fc</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter31">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer103" title="Anonymous Submission" in="00:00:00.000" out="00:04:17.640">
+    <property name="length">00:04:17.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra feeds the babies.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ed321dbcc9b3051664e703c0a1d3d9</property>
+    <property name="shotcut:caption">Kookaburra feeds the babies.mp4</property>
+    <property name="shotcut:detail">Kookaburra feeds the babies.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter32">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer104" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.920">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">schematic.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">79dd52489f0d01a72052a57af3476360</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter33">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer105" title="Anonymous Submission" in="00:00:00.000" out="00:00:22.800">
+    <property name="length">00:00:22.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/a/Downloads/VID_20180327_073644.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0f3fc28f2224066af16de51ac0029317</property>
+    <property name="shotcut:caption">VID_20180327_073644.mp4</property>
+    <property name="shotcut:detail">/home/a/Downloads/VID_20180327_073644.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter34">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer106" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.480">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">nbs.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">da1a034833870225c4505f49da02946a</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter35">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer107" title="Anonymous Submission" in="00:00:00.000" out="00:00:05.680">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">china.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c72a0bfbcf39a8c12e9608ee994a3128</property>
+    <filter id="filter36">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer108" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.440">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hacker.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">fddcb6f4ae354d5bef01b8ad6d3484b8</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter37">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+  </producer>
+  <producer id="producer109" title="Anonymous Submission" in="00:00:00.000" out="00:01:06.920">
+    <property name="length">00:01:06.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra vs tiger snake.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3be2e5ca23a82cf9c5b2270289fafbd5</property>
+    <property name="shotcut:caption">Kookaburra vs tiger snake.mp4</property>
+    <property name="shotcut:detail">Kookaburra vs tiger snake.mp4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer110" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.400">
+    <property name="length">00:00:07.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">RAINBOW ANIMATION STOCK.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">04c4c4436198ffdac009970e5d5f3929</property>
+    <property name="shotcut:caption">RAINBOW ANIMATION STOCK.mp4</property>
+    <property name="shotcut:detail">RAINBOW ANIMATION STOCK.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter38">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">2.6455</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">2.6455</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <property name="shotcut:lock">0</property>
+    <blank length="00:00:01.800"/>
+    <entry producer="producer74" in="00:00:00.000" out="00:00:05.840"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.840"/>
+    <entry producer="producer76" in="00:00:00.880" out="00:00:01.960"/>
+    <entry producer="producer77" in="00:00:00.000" out="00:00:01.160"/>
+    <entry producer="producer78" in="00:00:00.960" out="00:00:02.360"/>
+    <entry producer="producer79" in="00:00:00.000" out="00:00:00.880"/>
+    <entry producer="producer80" in="00:00:01.480" out="00:00:02.360"/>
+    <entry producer="producer81" in="00:00:00.000" out="00:00:00.920"/>
+    <entry producer="producer82" in="00:00:00.000" out="00:00:03.800"/>
+    <entry producer="producer83" in="00:00:00.000" out="00:00:02.240"/>
+    <blank length="00:00:00.480"/>
+    <entry producer="producer84" in="00:00:00.000" out="00:00:00.440"/>
+    <entry producer="producer85" in="00:00:00.000" out="00:00:00.320"/>
+    <entry producer="producer86" in="00:00:00.120" out="00:00:02.480"/>
+    <blank length="00:00:02.720"/>
+    <entry producer="producer87" in="00:00:07.280" out="00:00:14.440"/>
+    <entry producer="producer88" in="00:00:00.000" out="00:00:03.080"/>
+    <entry producer="producer89" in="00:00:00.000" out="00:00:04.120"/>
+    <entry producer="producer90" in="00:00:00.240" out="00:00:02.960"/>
+    <entry producer="producer91" in="00:00:00.000" out="00:00:01.680"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.040"/>
+    <entry producer="producer100" in="00:00:36.600" out="00:00:41.040"/>
+    <entry producer="producer92" in="00:00:38.680" out="00:00:44.160"/>
+    <entry producer="producer93" in="00:00:00.000" out="00:00:07.520"/>
+    <entry producer="producer94" in="00:00:00.000" out="00:00:02.640"/>
+    <entry producer="producer95" in="00:00:00.000" out="00:00:03.960"/>
+    <blank length="00:00:02.440"/>
+    <entry producer="producer122" in="00:00:01.200" out="00:00:02.680"/>
+    <entry producer="producer96" in="00:00:00.000" out="00:00:01.640"/>
+    <entry producer="producer97" in="00:00:04.960" out="00:00:06.320"/>
+    <entry producer="producer98" in="00:00:00.000" out="00:00:00.840"/>
+    <entry producer="producer99" in="00:00:00.000" out="00:00:00.840"/>
+    <entry producer="producer101" in="00:00:00.000" out="00:00:00.840"/>
+    <blank length="00:00:00.880"/>
+    <entry producer="producer102" in="00:00:02.520" out="00:00:03.960"/>
+    <entry producer="producer103" in="00:00:37.560" out="00:00:39.080"/>
+    <entry producer="producer104" in="00:00:00.000" out="00:00:04.920"/>
+    <entry producer="producer105" in="00:00:03.320" out="00:00:11.680"/>
+    <entry producer="producer106" in="00:00:00.000" out="00:00:04.480"/>
+    <entry producer="producer107" in="00:00:00.880" out="00:00:05.680"/>
+    <entry producer="producer108" in="00:00:00.000" out="00:00:03.440"/>
+    <blank length="00:00:02.120"/>
+    <entry producer="producer109" in="00:00:38.040" out="00:00:40.520"/>
+    <blank length="00:00:02.560"/>
+    <entry producer="producer110" in="00:00:00.000" out="00:00:05.160"/>
+  </playlist>
+  <producer id="producer111" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer112" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer113" title="Anonymous Submission" in="00:00:00.000" out="00:01:08.760">
+    <property name="length">00:01:08.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">Bed Spring Sound Effect.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a6ef83f4c8f6c44309b5a2795fe34ea1</property>
+    <property name="shotcut:caption">Bed Spring Sound Effect.mp4</property>
+    <property name="shotcut:detail">Bed Spring Sound Effect.mp4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="producer111" in="00:01:23.920" out="00:01:28.800"/>
+    <entry producer="producer112" in="00:01:41.520" out="00:01:45.120"/>
+    <blank length="00:01:07.920"/>
+    <entry producer="producer113" in="00:00:29.480" out="00:00:34.240"/>
+  </playlist>
+  <producer id="producer114" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro.m4a</property>
+    <property name="shotcut:detail">intro.m4a</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer115" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro.m4a</property>
+    <property name="shotcut:detail">intro.m4a</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer116" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro.m4a</property>
+    <property name="shotcut:detail">intro.m4a</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer117" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro.m4a</property>
+    <property name="shotcut:detail">intro.m4a</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer118" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro.m4a</property>
+    <property name="shotcut:detail">intro.m4a</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer119" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro.m4a</property>
+    <property name="shotcut:detail">intro.m4a</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer120" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro.m4a</property>
+    <property name="shotcut:detail">intro.m4a</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer121" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro.m4a</property>
+    <property name="shotcut:detail">intro.m4a</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer123" title="Anonymous Submission" in="00:00:00.000" out="00:02:00.960">
+    <property name="length">00:02:01.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">53f39e45f5dcf46bf08c2d786b49648d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro.m4a</property>
+    <property name="shotcut:detail">intro.m4a</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A2</property>
+    <blank length="00:00:06.240"/>
+    <entry producer="producer114" in="00:00:00.000" out="00:00:09.160"/>
+    <entry producer="producer115" in="00:00:09.840" out="00:00:14.240"/>
+    <entry producer="producer116" in="00:00:14.560" out="00:00:23.840"/>
+    <entry producer="producer117" in="00:00:24.240" out="00:00:27.960"/>
+    <blank length="00:00:00.520"/>
+    <entry producer="producer118" in="00:00:31.040" out="00:00:35.640"/>
+    <entry producer="producer119" in="00:00:35.680" out="00:01:09.360"/>
+    <entry producer="producer120" in="00:01:11.240" out="00:01:20.040"/>
+    <entry producer="producer121" in="00:01:19.440" out="00:01:41.160"/>
+    <entry producer="producer123" in="00:01:41.560" out="00:01:59.320"/>
+  </playlist>
+  <producer id="producer124" title="Anonymous Submission" in="00:00:00.000" out="00:00:56.120">
+    <property name="length">00:00:56.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">KOOKABURRA and Tiger Snake 2015 11 08.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d8c5f88ca3c820949365979776e6a2e1</property>
+    <property name="shotcut:caption">KOOKABURRA and Tiger Snake 2015 11 08.mp4</property>
+    <property name="shotcut:detail">KOOKABURRA and Tiger Snake 2015 11 08.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter39">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+    <filter id="filter40" in="00:00:14.280" out="00:00:15.240">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="gain">1</property>
+      <property name="end">0</property>
+    </filter>
+  </producer>
+  <producer id="producer125" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.240">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Cambridge-Analytica.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">e200de83d76b28e02aca0b7ddefeee10</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter41">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">10</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">10</property>
+    </filter>
+  </producer>
+  <producer id="producer126" title="Anonymous Submission" in="00:00:00.000" out="00:01:06.920">
+    <property name="length">00:01:06.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra vs tiger snake.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3be2e5ca23a82cf9c5b2270289fafbd5</property>
+    <property name="shotcut:caption">Kookaburra vs tiger snake.mp4</property>
+    <property name="shotcut:detail">Kookaburra vs tiger snake.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter42">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4.7619</property>
+      <property name="transition.ox">61</property>
+      <property name="transition.oy">68</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4.7619</property>
+    </filter>
+    <filter id="filter43">
+      <property name="mlt_service">crop</property>
+      <property name="center">0</property>
+      <property name="center_bias">0</property>
+      <property name="top">105</property>
+      <property name="bottom">328</property>
+      <property name="left">78</property>
+      <property name="right">159</property>
+    </filter>
+    <filter id="filter45">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.00316228</property>
+    </filter>
+  </producer>
+  <producer id="producer127" title="Anonymous Submission" in="00:00:00.000" out="00:00:05.720">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">gmail.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2ede7c9ed846611b2a88c67cd723d619</property>
+    <filter id="filter46">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">5</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">5</property>
+    </filter>
+    <filter id="filter47">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">0.28</property>
+      <property name="opacity">0.28</property>
+    </filter>
+  </producer>
+  <producer id="producer128" title="Anonymous Submission" in="00:00:00.000" out="00:04:17.640">
+    <property name="length">00:04:17.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Kookaburra feeds the babies.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2ed321dbcc9b3051664e703c0a1d3d9</property>
+    <property name="shotcut:caption">Kookaburra feeds the babies.mp4</property>
+    <property name="shotcut:detail">Kookaburra feeds the babies.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter48">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">4</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">4</property>
+    </filter>
+    <filter id="filter49">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.0146218</property>
+    </filter>
+  </producer>
+  <producer id="producer129" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter50">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">7.5188</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.scale_y">7.5188</property>
+    </filter>
+    <filter id="filter51" in="00:01:35.000" out="00:01:35.960">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">0=1; 24=0</property>
+    </filter>
+    <filter id="filter52" in="00:01:31.640" out="00:01:32.600">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">0=0; 24=1</property>
+    </filter>
+    <filter id="filter53" in="00:01:31.640" out="00:01:32.600">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="gain">0</property>
+      <property name="end">1</property>
+    </filter>
+    <filter id="filter54" in="00:01:34.120" out="00:01:35.080">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="gain">1</property>
+      <property name="end">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist4">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <blank length="00:00:03.080"/>
+    <entry producer="producer75" in="00:01:30.520" out="00:01:35.080"/>
+    <blank length="00:00:17.240"/>
+    <entry producer="producer124" in="00:00:09.160" out="00:00:15.240"/>
+    <blank length="00:00:03.840"/>
+    <entry producer="producer125" in="00:00:00.000" out="00:00:03.080"/>
+    <blank length="00:00:18.720"/>
+    <entry producer="producer126" in="00:00:38.040" out="00:00:45.640"/>
+    <blank length="00:00:39.160"/>
+    <entry producer="producer127" in="00:00:01.960" out="00:00:05.720"/>
+    <blank length="00:00:03.440"/>
+    <entry producer="producer128" in="00:00:37.560" out="00:00:39.640"/>
+    <blank length="00:00:06.800"/>
+    <entry producer="producer129" in="00:01:31.640" out="00:01:35.080"/>
+  </playlist>
+  <producer id="producer130" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter55">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer131" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter56">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer132" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter57">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer133" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter58">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer134" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter59">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer135" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter60">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer136" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter61">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer137" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter62">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer138" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter63">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer139" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter64">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer140" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter65">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer141" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter66">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer142" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter67">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer143" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter68">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer144" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter69">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer145" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter70">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer146" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter71">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer147" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter72">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer148" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter73">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer149" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter74">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <producer id="producer150" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.120">
+    <property name="length">00:01:45.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">baby kookaburra sings after food.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29ffdb2af89e799372d98c31eba5ea60</property>
+    <property name="shotcut:caption">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:detail">baby kookaburra sings after food.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter75">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="mlt_service">volume</property>
+      <property name="gain">0.030903</property>
+    </filter>
+  </producer>
+  <playlist id="playlist5">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A3</property>
+    <blank length="00:00:08.080"/>
+    <entry producer="producer130" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer131" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer132" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer133" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer134" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer135" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer136" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer137" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer138" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer139" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer140" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer141" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer142" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer143" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer144" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer145" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer146" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer147" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer148" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer149" in="00:01:30.520" out="00:01:35.920"/>
+    <entry producer="producer150" in="00:01:30.520" out="00:01:35.920"/>
+  </playlist>
+  <tractor id="tractor2" title="Shotcut version 18.03.06" global_feed="1" in="00:00:00.000" out="00:02:03.120">
+    <property name="shotcut">1</property>
+    <property name="shotcut:scaleFactor">1.06171</property>
+    <property name="shotcut:trackHeight">30</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="audio"/>
+    <track producer="playlist2" hide="video"/>
+    <track producer="playlist3" hide="video"/>
+    <track producer="playlist4"/>
+    <track producer="playlist5" hide="video"/>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition9">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition10">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition11">
+      <property name="a_track">1</property>
+      <property name="b_track">5</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition12">
+      <property name="a_track">0</property>
+      <property name="b_track">6</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>

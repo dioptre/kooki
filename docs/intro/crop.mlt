@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="en_US.UTF-8" version="6.7.0" title="Shotcut version 18.03.06" producer="main bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1920" display_aspect_den="1080" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="00:02:03.120">
+    <property name="length">00:02:03.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">kook2.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">c63d4eb46b2b9106c34e76f8948c7737</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">kook2.mp4</property>
+    <property name="shotcut:detail">kook2.mp4</property>
+    <property name="shotcut:comment"></property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="main bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:02:03.120"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:02:03.120">
+    <property name="length">00:02:03.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:02:03.120"/>
+  </playlist>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:02:03.120">
+    <property name="length">00:02:03.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">kook2.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">c63d4eb46b2b9106c34e76f8948c7737</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">kook2.mp4</property>
+    <property name="shotcut:detail">kook2.mp4</property>
+    <property name="shotcut:comment"></property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter0">
+      <property name="mlt_service">crop</property>
+      <property name="center">0</property>
+      <property name="center_bias">0</property>
+      <property name="top">405</property>
+      <property name="bottom">406</property>
+      <property name="left">719</property>
+      <property name="right">720</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer1" in="00:00:00.000" out="00:02:03.120"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 18.03.06" global_feed="1" in="00:00:00.000" out="00:02:03.120">
+    <property name="shotcut">1</property>
+    <property name="shotcut:scaleFactor">0.135</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
